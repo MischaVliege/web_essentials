@@ -1,0 +1,19 @@
+ol   {  color: blue;           }
+
+
+
+
+
+
+ul {
+        color: red;
+}
+
+.voorbeeld{
+    background-color: grey;
+    margin: 5px;
+}
+
+div > p{
+    color: orange;
+}

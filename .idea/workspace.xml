@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1a5ca85-c658-48c2-b7c9-a97f136b2462" name="Default Changelist" comment="oefeningen">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/week2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/96hwpOZ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/DSC_4492.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Forest-from-the-Trees-00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/IMG_2902.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/asiwyfa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bridge-in-the-forest-hd-high-definition-widescreen-wallpapers-free-download-mobile-pc-computer-desktop-tablet-android-high-resolution-backgrounds-1920x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/dameWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/dameZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/hout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/koningWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/koningZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/loperWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/loperZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/paardWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/paardZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/pionWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/pionZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/torenWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/torenZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/witte-marmer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chess/zwarte-marmer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/elo out of the blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/forest_trees_stones_180954_3840x2160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fwmac.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lucas-the-spider.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mischa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pearl jam ten.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pearljam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pink floyd animals.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/spider1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/spinnenterrarium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/terrarium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/css/Chess.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/css/Mijn muziek.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/css/puntenlijst.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/css/pxlremake.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/css/recept.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/html/Chess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/html/Mijn muziek.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/html/Project spider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/html/album covers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/html/hallowereld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/html/muziek.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/html/oefening22092020.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/html/puntenlijst.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/html/pxlremake.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/html/recept.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/html/valideren.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/html/voorbeeld1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week7/css/Audi.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week7/css/C.V..css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week7/css/c.v.test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week7/html/Audi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week7/html/C.V..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week7/html/c.v.test.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iDoOpqLNbxgH4lT2dgkHNYnOXT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/web_essentials" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yacum\OneDrive\Documents\PXL\Html oefenigen\Projecten\week7\html" />
+      <recent name="C:\Users\yacum\OneDrive\Documents\PXL\Html oefenigen\Projecten\week7\css" />
+      <recent name="C:\Users\yacum\OneDrive\Documents\PXL\Html oefenigen\Projecten\week7" />
+      <recent name="C:\Users\yacum\WebstormProjects\untitled1\assets" />
+      <recent name="C:\Users\yacum\WebstormProjects\untitled1\week2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1a5ca85-c658-48c2-b7c9-a97f136b2462" name="Default Changelist" comment="" />
+      <created>1601451494791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601451494791</updated>
+      <workItem from="1601451496125" duration="97000" />
+      <workItem from="1601451655740" duration="4767000" />
+      <workItem from="1601552235896" duration="1238000" />
+      <workItem from="1601620156116" duration="5130000" />
+      <workItem from="1601838728947" duration="110000" />
+      <workItem from="1601839040912" duration="7000" />
+      <workItem from="1601839060805" duration="10000" />
+      <workItem from="1601839085071" duration="34000" />
+      <workItem from="1602442588301" duration="6403000" />
+      <workItem from="1602449055535" duration="95000" />
+      <workItem from="1602449160942" duration="2153000" />
+      <workItem from="1602506662076" duration="255000" />
+      <workItem from="1602523830658" duration="653000" />
+      <workItem from="1602662835279" duration="6078000" />
+      <workItem from="1602699742996" duration="7026000" />
+      <workItem from="1602793941752" duration="224000" />
+      <workItem from="1602831524007" duration="523000" />
+      <workItem from="1602832095752" duration="5153000" />
+      <workItem from="1604928958458" duration="10382000" />
+      <workItem from="1604941336135" duration="96000" />
+      <workItem from="1604945739950" duration="779000" />
+      <workItem from="1605108956951" duration="924000" />
+      <workItem from="1605167427052" duration="18000" />
+      <workItem from="1605167556662" duration="12298000" />
+      <workItem from="1605377719561" duration="5736000" />
+      <workItem from="1605531902459" duration="3554000" />
+      <workItem from="1605632167696" duration="74000" />
+      <workItem from="1605733555928" duration="598000" />
+      <workItem from="1605858934742" duration="734000" />
+      <workItem from="1605860206703" duration="1065000" />
+      <workItem from="1605862477345" duration="27000" />
+      <workItem from="1605862514868" duration="20000" />
+      <workItem from="1605863443903" duration="744000" />
+      <workItem from="1606049863605" duration="797000" />
+      <workItem from="1606142162070" duration="5360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oefeningen" />
+    <option name="LAST_COMMIT_MESSAGE" value="oefeningen" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="958" y="529" key="#Images" timestamp="1605382824434">
+      <screen x="0" y="0" width="2413" height="1440" />
+    </state>
+    <state x="958" y="529" key="#Images/0.0.2413.1440/-1920.116.1920.1080@0.0.2413.1440" timestamp="1605382824434" />
+    <state x="960" y="544" key="#Notifications" timestamp="1606159519502">
+      <screen x="0" y="0" width="2413" height="1440" />
+    </state>
+    <state x="960" y="544" key="#Notifications/0.0.2413.1440/-1920.116.1920.1080@0.0.2413.1440" timestamp="1606159519502" />
+    <state x="20" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601451753937">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="20" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1601451753937" />
+    <state x="230" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605863854483">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="230" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1605863854483" />
+    <state x="92" y="92" width="2229" height="1256" key="DiffContextDialog" timestamp="1606158996646">
+      <screen x="0" y="0" width="2413" height="1440" />
+    </state>
+    <state x="92" y="92" width="2229" height="1256" key="DiffContextDialog/0.0.2413.1440/-1920.116.1920.1080@0.0.2413.1440" timestamp="1606158996646" />
+    <state x="921" y="393" key="FileChooserDialogImpl" timestamp="1606159617387">
+      <screen x="0" y="0" width="2413" height="1440" />
+    </state>
+    <state x="709" y="295" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1605858954576" />
+    <state x="921" y="393" key="FileChooserDialogImpl/0.0.2413.1440/-1920.116.1920.1080@0.0.2413.1440" timestamp="1606159617387" />
+    <state x="707" y="365" key="SettingsEditor" timestamp="1606159623690">
+      <screen x="0" y="0" width="2413" height="1440" />
+    </state>
+    <state x="707" y="365" key="SettingsEditor/0.0.2413.1440/-1920.116.1920.1080@0.0.2413.1440" timestamp="1606159623690" />
+    <state x="1024" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606158766546">
+      <screen x="0" y="0" width="2413" height="1440" />
+    </state>
+    <state x="1024" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2413.1440/-1920.116.1920.1080@0.0.2413.1440" timestamp="1606158766546" />
+    <state x="989" y="65" width="1030" height="1427" key="dock-window-1" timestamp="1604932987978">
+      <screen x="0" y="0" width="2413" height="1440" />
+    </state>
+    <state x="989" y="65" width="1030" height="1427" key="dock-window-1/0.0.2413.1440/-1920.116.1920.1080@0.0.2413.1440" timestamp="1604932987978" />
+    <state x="863" y="340" key="run.anything.popup" timestamp="1605381926205">
+      <screen x="0" y="0" width="2413" height="1440" />
+    </state>
+    <state x="863" y="340" key="run.anything.popup/0.0.2413.1440/-1920.116.1920.1080@0.0.2413.1440" timestamp="1605381926205" />
+    <state x="297" y="319" width="672" height="678" key="search.everywhere.popup" timestamp="1604940703966">
+      <screen x="0" y="0" width="2413" height="1440" />
+    </state>
+    <state x="229" y="239" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1601451776217" />
+    <state x="297" y="319" width="672" height="678" key="search.everywhere.popup/0.0.2413.1440/-1920.116.1920.1080@0.0.2413.1440" timestamp="1604940703966" />
+  </component>
+</project>

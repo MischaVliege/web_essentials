@@ -1,0 +1,30 @@
+body {
+    background-color: #d9ddd7;
+    font-family: Verdana;
+
+
+}
+
+H1{color:#21522f}
+
+p
+{
+    color : white;
+    background-color: #6a7689;
+    padding: 20px;
+}
+.highlight{
+    color  : yellow;
+    border-style :solid;
+    border-width : 2px;
+    border-color : yellow;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+.hyperlink{
+    color :white;
+}
+.hyperlink:hover{
+    color: green;
+}

@@ -1,0 +1,59 @@
+body {
+    background-image: url(../../assets/chess/hout.jpg)
+}
+
+
+table {
+    border: 10px solid darkred;
+    border-collapse: collapse;
+}
+tr td{
+
+    border: 2px solid darkred;
+}
+
+
+img {
+    width: 40px;
+    height: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td, th {
+    width: 100px;
+    height: 100px;
+}
+tr:nth-child(odd) td:nth-child(odd){
+    background-image: url(../../assets/chess/witte-marmer.jpg);
+}
+tr:nth-child(even) td:nth-child(even){
+    background-image: url(../../assets/chess/witte-marmer.jpg);
+}
+tr:nth-child(odd) td:nth-child(even){
+    background-image: url(../../assets/chess/zwarte-marmer.jpg);
+}
+tr:nth-child(even) td:nth-child(odd){
+    background-image: url(../../assets/chess/zwarte-marmer.jpg);
+}
+
+
+
+.bijvoegsel{
+    font-size: 20px;
+    float: right;
+    margin-right: 20vw;
+}
+.bijvoegsel p{
+    font-size: 25px;
+    width: 350px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 45px;
+    margin-bottom: 300px;
+}
+.bijvoegsel h1{
+    margin-top: 60px;
+    text-align: center;
+}
