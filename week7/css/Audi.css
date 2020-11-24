@@ -1,0 +1,101 @@
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    font-family:"Bahnschrift", "sans-serif";
+}
+
+.Container
+{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.A7
+{
+    min-width: 50px;
+    width: 25%;
+
+}
+
+.Opties
+{
+    height: 600px;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: #151c28;
+    color: white;
+}
+
+.top
+{
+    display:flex;
+    height: 200px;
+    padding: 20px;
+}
+
+.bottom
+{
+    display: flex;
+    height: 600px;
+    padding: 20px;
+    margin: 25px;
+}
+
+.Kop
+{
+    flex-grow: 1;
+    margin-left: 25px;
+    background-color: #151c28;
+    color: white;
+}
+
+.Navi
+{
+    display: flex;
+    height: 400px;
+    padding: 20px;
+    margin: 25px;
+    align-items: center;
+    justify-content: flex-start;
+
+}
+
+.interieur
+{
+    justify-content: flex-end;
+    background-color: slategray;
+}
+
+.Interieur1
+{
+    float: left;
+    height: 200px;
+    width: 180px;
+
+    padding: 20px;
+}
+
+.Interieur2
+{
+    float: right;
+    height: 200px;
+    width: 180px;
+
+    padding: 20px;
+}
+
+.Rb
+{
+
+}
+
+.Ro
+{
+
+}
